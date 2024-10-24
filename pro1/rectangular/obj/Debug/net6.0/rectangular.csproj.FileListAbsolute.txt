@@ -1,0 +1,15 @@
+C:\Users\pc\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\.net\pro1\rectangular\bin\Debug\net6.0\rectangular.exe
+C:\Users\pc\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\.net\pro1\rectangular\bin\Debug\net6.0\rectangular.deps.json
+C:\Users\pc\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\.net\pro1\rectangular\bin\Debug\net6.0\rectangular.runtimeconfig.json
+C:\Users\pc\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\.net\pro1\rectangular\bin\Debug\net6.0\rectangular.dll
+C:\Users\pc\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\.net\pro1\rectangular\bin\Debug\net6.0\rectangular.pdb
+C:\Users\pc\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\.net\pro1\rectangular\obj\Debug\net6.0\rectangular.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\.net\pro1\rectangular\obj\Debug\net6.0\rectangular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\.net\pro1\rectangular\obj\Debug\net6.0\rectangular.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\.net\pro1\rectangular\obj\Debug\net6.0\rectangular.AssemblyInfo.cs
+C:\Users\pc\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\.net\pro1\rectangular\obj\Debug\net6.0\rectangular.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\.net\pro1\rectangular\obj\Debug\net6.0\rectangular.dll
+C:\Users\pc\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\.net\pro1\rectangular\obj\Debug\net6.0\refint\rectangular.dll
+C:\Users\pc\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\.net\pro1\rectangular\obj\Debug\net6.0\rectangular.pdb
+C:\Users\pc\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\.net\pro1\rectangular\obj\Debug\net6.0\rectangular.genruntimeconfig.cache
+C:\Users\pc\OneDrive - Faculty Of Engineering (Tanta University)\Desktop\.net\pro1\rectangular\obj\Debug\net6.0\ref\rectangular.dll
